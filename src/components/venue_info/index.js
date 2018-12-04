@@ -40,7 +40,7 @@ const VenueInfo = () => {
                 <div
                   className="vn_icon"
                   style={{
-                    background: `url(${icon_calendar})`
+                    background: `url(${icon_location})`
                   }}
                 ></div>
                 <div className="vn_title">
