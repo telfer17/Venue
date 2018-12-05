@@ -8,13 +8,7 @@ const Featured = () => {
 
     <Carousel/>
 
-      <div className="artist_name">
-        <div className="wrapper">
-          Eric Prydz
-        </div>
-      </div>
-
-      <Countdown />
+    <Countdown />
 
     </div>
 

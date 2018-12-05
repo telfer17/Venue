@@ -12,7 +12,9 @@ class Pricing extends Component {
       'Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea',
       'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
     ],
-    linkto:['http://sales/general', 'http://sales/enhanced', 'http://sales/vip'],
+    linkto:['https://www.skiddle.com/whats-on/London/Finsbury-Park/Steel-Yard-London---Eric-Prydz-Presents-HOLO/13367341/',
+            'https://www.skiddle.com/whats-on/London/Finsbury-Park/Steel-Yard-London---Eric-Prydz-Presents-HOLO/13367341/',
+            'https://www.skiddle.com/whats-on/London/Finsbury-Park/Steel-Yard-London---Eric-Prydz-Presents-HOLO/13367341/'],
     delay:[500, 0, 500]
   }
 

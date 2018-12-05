@@ -22,6 +22,10 @@ body {
     background: #ffa800;
 }
 
+.bck_blue {
+  background: #79B8C1;
+}
+
 .iconImage {
     width: 20px;
     margin-right: 10px;
@@ -63,7 +67,7 @@ footer {
     text-align: center;
     font-size: 60px;
     color:#ffffff;
-    background: red;
+    background: #79B8C1;
 }
 
 footer .footer_copyright {
@@ -114,11 +118,11 @@ footer .footer_copyright {
 .countdown_wrapper {
     position:absolute;
     bottom: 0px;
-    color:#ffffff;
+    color:#79B8C1;
 }
 
 .countdown_wrapper .countdown_top {
-    background: #ff4800;
+    background: black;
     font-size: 19px;
     padding: 10px;
     display: inline-block;
@@ -127,12 +131,12 @@ footer .footer_copyright {
 
 .countdown_wrapper .countdown_bottom {
     display: flex;
-    background: #d93d00;
+    background: black;
     padding: 10px 20px;
 }
 
 .countdown_wrapper .countdown_time {
-    font-size: 70px;
+    font-size: 50px;
     border-right: 1px solid #F44336;
     margin-right: 14px;
     padding-right: 49px;
@@ -245,7 +249,7 @@ footer .footer_copyright {
 }
 
 .discount_wrapper .discount_percentage span:nth-child(1) {
-    color: #ff4800;
+    color: #79B8C1;
     font-size: 125px;
     font-weight: 400;
     display: block;
@@ -302,14 +306,14 @@ footer .footer_copyright {
 }
 
 .pricing_wrapper .pricing_inner_wrapper {
-    border:2px solid #ffa800;
+    border:2px solid #79B8C1;
     padding: 50px 20px;
 }
 
 .pricing_inner_wrapper .pricing_title {
     color: #ffffff;
     text-align: center;
-    border-bottom: 1px solid #ffa800;
+    border-bottom: 1px solid #79B8C1;
     padding-bottom: 20px;
 }
 .pricing_inner_wrapper .pricing_title span:nth-child(1) {

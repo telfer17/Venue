@@ -45,7 +45,7 @@ class Discount extends Component {
         <Slide right>
           <div className="discount_description">
             <h3>Buy tickets before January 1st</h3>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+            <p>Also, don’t fret too much if you are looking forward to the next EPIC show.  We’d like to let you know that EPIC will return with a new, innovative design in 2019.  It will be supremely interesting to see what Eric pulls out of his hat next year after rocking the 15,000 strong for EPIC 5.0 at the Creamfields Steel Yard in London’s Victoria Park.</p>
 
             <MyButton
               text="Purchase Tickets"
