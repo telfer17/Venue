@@ -8,6 +8,7 @@ const Description = () => {
         <h2>Highlights</h2>
         <div className="highlight_description">
         <h3>So what is HOLO?</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gxrp9jjQ-tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>The HOLO concept is a culmination of the several years of holographic technology Eric’s been working on during his EPIC shows.  The goal of HOLO was to introduce a tourable holographic live experience that works in more locations than the purpose-built EPIC stages.  It’s an exciting prospect given what Eric’s done with holographic elements to date in his EPIC shows.</p>
         </div>
       </div>
