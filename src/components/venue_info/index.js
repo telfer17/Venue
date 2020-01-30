@@ -25,7 +25,7 @@ const VenueInfo = () => {
                   Event Date & Time
                 </div>
                 <div className="vn_desc">
-                  Sat 25 May 2019 @10pm
+                  Sat 5th June 2021 @10pm
                 </div>
               </div>
             </div>
