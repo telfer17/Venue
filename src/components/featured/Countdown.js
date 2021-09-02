@@ -3,7 +3,7 @@ import Slide from "react-reveal/Slide";
 
 class Countdown extends Component {
   state = {
-    deadline: "August, 19, 2021",
+    deadline: "June, 04, 2022",
     days: "0",
     hours: "0",
     minutes: "0",
